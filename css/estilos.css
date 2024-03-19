@@ -1,0 +1,97 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+.social{
+    color: hsl(0, 0%, 100%);
+    display: block;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 12%);
+    width: 35%;
+    border-radius: 12px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 5%;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+.jessica{
+    border-radius: 100%;
+    width: 31%;
+
+}
+
+.sociais{
+    display: flex;
+    flex-direction: column;
+    gap: 100%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.sociais .github{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border: hsl(0, 0%, 20%);
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+
+}
+
+.sociais .fe-mentor{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border: hsl(0, 0%, 20%);
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+
+}
+
+.sociais .linkedin{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border: hsl(0, 0%, 20%);
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+
+}
+
+.sociais .twitter{
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border: hsl(0, 0%, 20%);
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.sociais .instagram{ 
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border: hsl(0, 0%, 20%);
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.sociais hr {
+    border-color: hsl(0, 0%, 0%);
+}
+
+.social .localizacao{
+    color: rgb(185, 252, 0);  
+    font-family: Arial, Helvetica, sans-serif 
+}
